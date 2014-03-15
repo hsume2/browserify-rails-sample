@@ -1,7 +1,7 @@
 GIT
   remote: git://github.com/hsume2/browserify-rails.git
-  revision: 053206fbb2f553132c54a9a0268e45e43224081f
-  ref: 053206f
+  revision: 96ea8b3cae8abed764be4957783312f64957be3f
+  ref: 96ea8b3
   specs:
     browserify-rails (0.0.1)
       sprockets (~> 2.0)
