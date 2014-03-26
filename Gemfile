@@ -17,7 +17,7 @@ group :assets do
   # gem 'therubyracer', :platforms => :ruby
 
   gem 'uglifier', '>= 1.0.3'
-  gem 'hsume2-browserify-rails', '~> 0.1.0', :require => 'browserify-rails'
+  gem 'hsume2-browserify-rails', '~> 0.2.1', :require => 'browserify-rails'
 end
 
 # To use ActiveModel has_secure_password

@@ -5,8 +5,7 @@
     "jquery-browserify": "*"
   },
   "devDependencies" : {
-    "browserify": "2.13.x",
-    "module-deps": "1.7.x"
+    "browserify": "~> 3.33"
   },
   "license": "MIT",
   "engines": {
