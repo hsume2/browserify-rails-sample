@@ -7,7 +7,7 @@ This is an example of using [`browserify-rails`](https://github.com/hsume2/brows
 Added this line in the Gemfile:
 
 ```ruby
-gem 'hsume2-browserify-rails', '~> 0.1.0', :require => 'browserify-rails'
+gem 'hsume2-browserify-rails', '~> 0.2.1', :require => 'browserify-rails'
 ```
 
 Created `package.json`:
@@ -20,8 +20,7 @@ Created `package.json`:
     "jquery-browserify": "*"
   },
   "devDependencies" : {
-    "browserify": "2.13.x",
-    "module-deps": "1.7.x"
+    "browserify": "~> 3.33"
   },
   "license": "MIT",
   "engines": {
